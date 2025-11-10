@@ -1,0 +1,6 @@
+C:\Maestria\AdventureWorksOLTP\AdventureWorksOLTP\bin\Debug\AdventureWorksOLTP.dacpac
+C:\Maestria\AdventureWorksOLTP\AdventureWorksOLTP\bin\Debug\AdventureWorksOLTP.dll
+C:\Maestria\AdventureWorksOLTP\AdventureWorksOLTP\bin\Debug\AdventureWorksOLTP.pdb
+C:\Maestria\AdventureWorksOLTP\AdventureWorksOLTP\obj\Debug\AdventureWorksOLTP.sqlproj.AssemblyReference.cache
+C:\Maestria\AdventureWorksOLTP\AdventureWorksOLTP\obj\Debug\AdventureWorksOLTP.dll
+C:\Maestria\AdventureWorksOLTP\AdventureWorksOLTP\obj\Debug\AdventureWorksOLTP.pdb
