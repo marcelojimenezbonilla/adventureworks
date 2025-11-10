@@ -59,6 +59,15 @@
     <Folder Include="Tablas" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="Tablas\Employee.sql" />
+    <Build Include="Tablas\HumanResources_Department.sql" />
+    <Build Include="Tablas\HumanResources_Employee.sql" />
+    <Build Include="Tablas\HumanResources_EmployeeDepartmentHistory.sql" />
+    <Build Include="Tablas\HumanResources_EmployeePayHistory.sql" />
+    <Build Include="Tablas\HumanResources_JobCandidate.sql" />
+    <Build Include="Tablas\HumanResources_Shift.sql" />
+    <Build Include="Tablas\Person_Address.sql" />
+    <Build Include="Tablas\Person_AddressType.sql" />
+    <Build Include="Tablas\Person_BusinessEntity.sql" />
+    <Build Include="Tablas\Person_BusinessEntityAddress.sql" />
   </ItemGroup>
 </Project>

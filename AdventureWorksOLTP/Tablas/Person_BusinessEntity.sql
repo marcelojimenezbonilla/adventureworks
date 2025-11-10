@@ -1,0 +1,6 @@
+﻿CREATE TABLE Person.BusinessEntity (
+    BusinessEntityID INT IDENTITY(1,1) NOT FOR REPLICATION NOT NULL,
+    rowguid UNIQUEIDENTIFIER ROWGUIDCOL NOT NULL,
+    ModifiedDate DATETIME NOT NULL,
+    CONSTRAINT PK_BusinessEntity_BusinessEntityID PRIMARY KEY CLUSTERED (BusinessEntityID)
+);
